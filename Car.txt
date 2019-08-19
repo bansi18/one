@@ -61,15 +61,4 @@ List of German car brand is as under
     Smart
     Stoewer
     Trabant
-    Treser
-    Vauxhall
-    Victoria
-    Volkswagen
-    Wanderer
-    Wartburg
-    Wendax
-    Wiesmann
-    Yes!
-    Zender
-    Zundapp
-
+  
