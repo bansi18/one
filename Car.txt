@@ -62,9 +62,9 @@ List of German car brand is as under
     Stoewer
     Trabant  
   
-  List of japan manufracture car
   
-    Ales
+  List of japan manufracture car
+     Ales
     Asahi
     ASL
     Central Motor Co., Ltd
@@ -74,12 +74,8 @@ List of German car brand is as under
     Duesen Bayern
     Hino
     Honda Motor Company
-
-        Acura
-
-        Honda
-
-
+    Acura
+    Honda
     Hope Motor Company
     Isuzu
     IHI Corporation
@@ -89,12 +85,8 @@ List of German car brand is as under
     Mitsubishi
     Mitsuoka Motors
     Nissan Motor Company
-
-        Infiniti
-
-        Nissan
-
-
+    Infiniti
+    Nissan
     Ohta Jidosha
     Otomo
     Prince Motor Company
@@ -104,18 +96,17 @@ List of German car brand is as under
     Suzuki Motor Corporation
     Tommykaira
     Toyota Motor Corporation
-
-        Lexus
-
-        Scion
-
-        Toyota
-
-
+    Lexus
+    Scion
+    Toyota
     Tsukuba
     Vemac
     Yamaha
-
-Kenya
+    Kenya
 
 Thank you ..!!
+
+Final copy for german cars
+
+Thank you
+
